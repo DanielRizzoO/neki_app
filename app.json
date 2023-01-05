@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Neki Finance",
+    "slug": "Neki Finance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-neki.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash-neki.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-neki.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon-neki.png"
+    }
+  }
+}
